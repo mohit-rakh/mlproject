@@ -1,3 +1,4 @@
+**House Price Prediction**
 1) Information about the Project:
 Title: House Price Prediction using Stacking and Model Combination
 Objective: The project aimed to predict the price of houses based on various features, such as the number of rooms, bungalow area, and other relevant aspects. Stacking and model combination techniques were applied to enhance prediction accuracy significantly over base models.
